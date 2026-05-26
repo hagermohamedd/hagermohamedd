@@ -7,7 +7,7 @@ Currently focusing on **Python, OOP, and Excel** while improving my English spea
 Feel free to connect with me here:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto: hager.mohamedd32@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/hagermohamedd)
 
 ## ⚡ Technologies
