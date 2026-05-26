@@ -1,16 +1,68 @@
-## Hi  👋
+Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<!--
-**hagermohamedd/hagermohamedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hager Mohamed, a student from Egypt who is passionate about technology, programming, and self-development.
+Currently learning Python and improving my English speaking skills. I enjoy discovering new things in tech and hope to grow step by step in the programming field.
 
-Here are some ideas to get you started:
+💻 Beginner programmer | 📚 Continuous learner | ♟️ Chess lover | 🎬 Anime fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+🌐 Connect with Me
+
+  
+
+
+---
+
+⚡ Currently Learning
+
+  
+
+
+---
+
+🎯 Goals
+
+Improve my English from A2 → B1+
+
+Build Python projects
+
+Improve my programming skills step by step
+
+Gain experience through internships and real projects
+
+Work in tech and become financially independent
+
+
+
+---
+
+🎮 Hobbies & Interests
+
+♟️ Playing Chess
+
+🎬 Watching Anime & Korean Dramas
+
+📖 Reading novels and stories
+
+💆‍♀️ Skincare & self-care
+
+😴 Sleeping peacefully after finishing tasks
+
+
+
+---
+
+📊 GitHub Stats
+
+
+
+
+
+
+---
+
+✨ Quote I Like
+
+> "Small steps every day lead to big results."
