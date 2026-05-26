@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Hager Mohamed**, a student from Egypt who is passionate about technology and programming.  
-I enjoy learning new things and improving myself step by step in the tech field ✨  
+I am **Hager Mohamed**, a student from Egypt who is passionate about technology and programming. 
+I enjoy learning new things and improving myself step by step in the tech field ✨ 
 
 Currently focusing on **Python, OOP, and Excel**, while improving my English speaking skills.
 
@@ -9,7 +9,7 @@ Currently focusing on **Python, OOP, and Excel**, while improving my English spe
 
 ## 🌐 Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](LINKEDIN_URL_HERE)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hager-mohamed-6124673a7)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hager.mohamedd32@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/hagermohamedd)
 
@@ -20,7 +20,6 @@ Currently focusing on **Python, OOP, and Excel**, while improving my English spe
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![OOP](https://img.shields.io/badge/-OOP-00599C?style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
 
 ---
 
