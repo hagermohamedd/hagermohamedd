@@ -23,23 +23,6 @@ Currently focusing on **Python, OOP, and Excel**, while improving my English spe
 
 ---
 
-## 🎯 Goals
-
-- Improve my English speaking skills  
-- Build strong Python projects  
-- Become a Data Analyst in the future  
-- Grow step by step in the tech field  
-
----
-
-## 🎮 Interests
-
-- ♟️ Playing Chess  
-- 🎬 Watching Anime  
-- 💻 Programming & Technology  
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hagermohamedd&count_private=true&show_icons=true&include_all_commits=true)
