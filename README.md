@@ -1,32 +1,47 @@
-Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Hager Mohamed, a student from Egypt who is passionate about technology and programming.
-Currently learning Python and trying to improve my English speaking skills step by step.
-I enjoy learning new things and hope to build useful projects in the future ✨
+I am **Hager Mohamed**, a student from Egypt who is passionate about technology and programming.  
+I enjoy learning new things and improving myself step by step in the tech field ✨  
 
-Feel free to connect with me here:
+Currently focusing on **Python, OOP, and Excel**, while improving my English speaking skills.
 
-  
+---
 
-⚡ Technologies
+## 🌐 Connect with Me
 
-  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hager.mohamedd32@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/hagermohamedd)
 
-🎯 Goals
+---
 
-Improve my English speaking skills
+## ⚡ Technologies
 
-Build beginner Python projects
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![OOP](https://img.shields.io/badge/-OOP-00599C?style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-Become a Data Analyst in the future
+---
 
-Grow step by step in tech field
+## 🎯 Goals
 
+- Improve my English speaking skills  
+- Build strong Python projects  
+- Become a Data Analyst in the future  
+- Grow step by step in the tech field  
 
-🎮 Interests
+---
 
-♟️ Playing Chess
+## 🎮 Interests
 
-🎬 Watching Anime
+- ♟️ Playing Chess  
+- 🎬 Watching Anime  
+- 💻 Programming & Technology  
 
-💻 Learning about technology and programming
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hagermohamedd&count_private=true&show_icons=true&include_all_commits=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hagermohamedd.hagermohamedd)
