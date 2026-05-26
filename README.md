@@ -25,6 +25,4 @@ Currently focusing on **Python, OOP, and Excel**, while improving my English spe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=hagermohamedd&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hagermohamedd.hagermohamedd)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hagermohamedd)
