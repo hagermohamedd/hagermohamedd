@@ -25,4 +25,4 @@ Currently focusing on **Python, OOP, and Excel**, while improving my English spe
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hagermohamedd)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hagermohamedd)](https://git.io/streak-stats)
