@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=hagermohamedd&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am **Hager Mohamed**, a student from Egypt who is passionate about technology and programming. 
